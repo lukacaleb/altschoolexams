@@ -183,7 +183,7 @@
     min-height: 100vh;
     align-items: center;
     flex-direction: column;
-    margin-top: -400px;
+    margin-top: -500px;
     overflow-x: hidden;
     
   }
@@ -300,7 +300,7 @@
     min-height: 100vh;
     align-items: center;
     flex-direction: column;
-    margin-top: -300px;
+    margin-top: -200px;
     overflow-x: hidden;
   }
   .group2-group2 {
@@ -364,7 +364,7 @@
     min-height: 100vh;
     align-items: center;
     flex-direction: column;
-    margin-top: -450px;
+    margin-top: -350px;
     overflow-x: hidden;
   }
   .group3-group3 {
@@ -399,7 +399,7 @@
     min-height: 100vh;
     align-items: center;
     flex-direction: column;
-    margin-top: -650px;
+    margin-top: -450px;
     overflow-x: hidden;
   
   }
@@ -607,7 +607,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  margin-top: -400px;
+  margin-top: -200px;
   margin-bottom: 90px;
   overflow-x: hidden;
   overflow-wrap: normal;
@@ -949,7 +949,7 @@
     min-height: 100vh;
     align-items: center;
     flex-direction: column;
-    margin-top: -200px;
+    margin-top: -100px;
   }
   .frame1000001713-frame1000001713 {
     gap: 16px;
@@ -1009,7 +1009,7 @@
     min-height: 100vh;
     align-items: center;
     flex-direction: column;
-    margin-top: -600px;
+    margin-top: -400px;
     overflow-x: hidden;
   
   }
@@ -1583,7 +1583,7 @@
     min-height: 100vh;
     align-items: center;
     flex-direction: column;
-    margin-top: -100px;
+    margin-top: -10px;
   }
   .frame1000001719-frame1000001719 {
     gap: 12px;
@@ -1657,7 +1657,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  margin-top: -650px;
+  margin-top: -450px;
   margin-left: -250px;
   
 }
@@ -1950,7 +1950,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  margin-top: -250px;
+  margin-top: -150px;
   margin-left: -12%;
 }
 .f-qs-f-qs {
@@ -2431,7 +2431,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  margin-left: -250px;
+  margin-left: -150px;
   margin-right: -250px;
 }
 .frame1000001649-frame1000001649 {
@@ -2576,7 +2576,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  margin-top: -400px;
+  margin-top: -200px;
   position: absolute;
   margin-left: -150px;
 }
