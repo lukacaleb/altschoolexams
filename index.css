@@ -3,6 +3,12 @@
     overflow-x: hidden;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
+    @media screen and (min-width: 1200px) {
+      width: 1200px;
+      floate: left;
+    }
+
   }
   
   
@@ -625,7 +631,7 @@
   align-items: center;
 }
 .frame1000001703-line70 {
-  width: 12px;
+  width: 28px;
   height: 48px;
   
 }
@@ -1645,13 +1651,15 @@
   
 /* desktop11 */
 .desktop11-container {
-  width: 100%;
+  width: 180%;
   display: flex;
   overflow: auto;
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
   margin-top: -650px;
+  margin-left: -250px;
+  
 }
 .desktop11-desktop11 {
   width: 100%;
@@ -1943,7 +1951,7 @@
   align-items: center;
   flex-direction: column;
   margin-top: -250px;
-  margin-left: 6%;
+  margin-left: -12%;
 }
 .f-qs-f-qs {
   width: 100%;
@@ -2417,12 +2425,14 @@
 
 /* Frame 1000001654 */
 .frame1000001649-container {
-  width: 100%;
+  width: 180%;
   display: flex;
   overflow: auto;
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
+  margin-left: -250px;
+  margin-right: -250px;
 }
 .frame1000001649-frame1000001649 {
   width: 100%;
@@ -2568,7 +2578,7 @@
   flex-direction: column;
   margin-top: -400px;
   position: absolute;
-  margin-left: 6cqmax;
+  margin-left: -150px;
 }
 .footer-footer {
   width: 100%;
