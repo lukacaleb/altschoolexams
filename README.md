@@ -1,2 +1,2 @@
 # altschoolexam
-this is my semester at Altschool Africa 
+this is my first semester examination at Altschool Africa 
